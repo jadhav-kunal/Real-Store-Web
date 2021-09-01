@@ -4,9 +4,8 @@
     "scripts": {
         "dev": "next",
         "build": "next build",
-        "start": "next start -p $PORT",
-        "stripe_forward": "stripe listen --forward-to localhost:3000/api/webhook",
-        "heroku_postbuild": "npm run build"
+        "start": "next start",
+        "stripe_forward": "stripe listen --forward-to localhost:3000/api/webhook"
     },
     "dependencies": {
         "@heroicons/react": "^1.0.1",
