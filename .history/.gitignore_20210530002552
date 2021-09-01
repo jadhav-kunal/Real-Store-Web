@@ -35,6 +35,3 @@ yarn-error.log*
 
 # vscode
 .vscode
-
-#permissions
-permissions.json
