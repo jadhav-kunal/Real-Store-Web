@@ -8,7 +8,7 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                header_bg: {
+                amazon_blue: {
                     light: "#333333",
                     DEFAULT: "black",
                 },
